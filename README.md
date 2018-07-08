@@ -1,6 +1,8 @@
-# Good Good Study Day Day Up
+# 私房课
 
-* 全网最有效的大数据教程
+* 私房课的优点是有效
+
+* [全网最有效的大数据教程](https://github.com/huangyuefeng/study/wiki/StudyHadoop)
 
 * 面向初学者
 
