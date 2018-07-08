@@ -1,6 +1,6 @@
 # 私房课
 
-* 私房课的优点是有效
+* 私房课是最有效的教程
 
 * [全网唯一保证效果的大数据课](https://github.com/huangyuefeng/study/wiki/StudyHadoop)
 
