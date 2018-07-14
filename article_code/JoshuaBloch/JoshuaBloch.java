@@ -7,4 +7,3 @@ private static void rangeCheck(int arrayLen, int fromIndex, int toIndex) {
 	if(toIndex > arrayLen)
 		throw new ArrayIndexOutOfBoundsException(toIndex);
 }
-
