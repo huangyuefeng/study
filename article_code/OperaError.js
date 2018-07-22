@@ -1,0 +1,1 @@
+if (is.opera) {window.location.href="config/error.htm"; }
